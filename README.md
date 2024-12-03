@@ -4,7 +4,7 @@ This repository contains the labs and materials from the ECE 243: Computer Organ
 ### **Table of Contents**
 - [Lab 1 - A Simple Processor](./Lab1-A-Simple-Processor/)
 - [Lab 2 - An Enhanced Processor](./Lab2-An-Enhanced-Processor)
-- Lab 3 - Using an ARM Cortex-A9 System
+- [Lab 3 - Using an ARM Cortex-A9 System](./Lab3-Using-an-ARM-Cortex-A9-System)
 - Lab 4 - Using Logic Instructions with the ARM Processor
 - Lab 5 - Using Input/Output Devices Including a Timer
 - Lab 6 - Using Interrupts with Assembly Language Code
