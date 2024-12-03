@@ -7,8 +7,8 @@ This repository contains the labs and materials from the ECE 243: Computer Organ
 - [Lab 3 - Using an ARM Cortex-A9 System](./Lab3-Using-an-ARM-Cortex-A9-System)
 - [Lab 4 - Using Logic Instructions with the ARM Processor](./Lab4-Using-Logic-Instructions-with-the-ARM-Processor)
 - [Lab 5 - Using Input/Output Devices Including a Timer](./Lab5-Using-Input-Output-Devices-Including-a-Timer)
-- Lab 6 - Using Interrupts with Assembly Language Code
-- Lab 7 - Introduction to Graphics and Animations
+- [Lab 6 - Using Interrupts with Assembly Language Code](Lab6-Using-Interrupts-with-Assembly-Language-Code)
+- [Lab 7 - Introduction to Graphics and Animations](Lab7-Introduction-to-Graphics-and-Animations)
 
 ### **Overview**
 #### **Lab 1 - A Simple Processor**
