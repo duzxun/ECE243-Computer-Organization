@@ -40,5 +40,5 @@ This exercise explores input/output (I/O) synchronization techniques using ARM a
 ## Tools
 - [CPUlator](https://cpulator.01xz.net/?sys=arm-de1soc)
 
-## References
+## Additional Resources
 - [Lab 5 Handout](./Lab5_Handout.pdf)
