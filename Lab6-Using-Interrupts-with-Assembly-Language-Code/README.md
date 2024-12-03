@@ -23,11 +23,8 @@ This part combines two interrupt sources:
 
 - A private timer generating interrupts every 0.25 seconds.
 - Pushbutton interrupts to toggle a global RUN variable.
-
-Key behavior:
-
-- The RUN variable determines whether the COUNT value displayed on the LEDs increments (RUN = 1) or remains static (RUN = 0).
-
+  
+The RUN variable determines whether the COUNT value displayed on the LEDs increments (RUN = 1) or remains static (RUN = 0).
 
 ## Part III: Adjustable Timer Speed
 Enhancements to the previous implementation:
@@ -39,12 +36,7 @@ Enhancements to the previous implementation:
 This is achieved by dynamically modifying the timer's load value in the ISR.
 
 ## Part IV: Real-Time Clock with Interval Timer
-This part adds a third interrupt source:
-
 - The FPGA Interval Timer generates interrupts every 1/100 of a second.
-
-Key behavior:
-
 - A global TIME variable tracks the time in SS:DD (seconds:hundredths) format.
 - KEY3: Toggles the real-time clock (start/stop).
 - The clock wraps around to 00:00 after 59:99.
