@@ -38,7 +38,7 @@ This exercise explores input/output (I/O) synchronization techniques using ARM a
 - part4.s: Real-time clock implementation.
 
 ## Tools
-- [CPUlator](https://cpulator.01xz.net/?sys=arm-de1soc)
+[CPUlator](https://cpulator.01xz.net/?sys=arm-de1soc)
 
 ## References
-[Lab 5 Handout](./Lab5_Handout)
+[Lab 5 Handout](./Lab5_Handout/)
