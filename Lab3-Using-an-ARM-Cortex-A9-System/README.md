@@ -13,4 +13,4 @@ The main goal of this exercise is to get familiarized with ARM processor archite
 ## Additional Resources
 - [Introduction to the ARM Processor Using Intel FPGA Toolchain](./ARM_A9_intro_intelfpga.pdf)
 - [DE1-SoC Computer System with ARM Cortex A9](./DE1-SoC_Computer_ARM.pdf/)
-- [Lab 3 Handout](./Lab_3_Handout.pdf)
+- [Lab 3 Handout](./Lab3_Handout.pdf)
