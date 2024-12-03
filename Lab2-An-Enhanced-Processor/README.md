@@ -74,4 +74,4 @@ This project is part of a lab exercise to design and extend the capabilities of 
 - Simulation Tools: ModelSim and DESim for functional validation.
 - Development Board: DE1-SoC for physical hardware testing.
 - [DESim Tutorial](./DESim_Tutorial.pdf)
-- [Lab 1 Handout](./Lab1_Handout.pdf)
+- [Lab 2 Handout](./Lab2_Handout.pdf)
