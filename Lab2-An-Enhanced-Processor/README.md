@@ -3,8 +3,6 @@
 ## Overview
 This project is part of a lab exercise to design and extend the capabilities of a simple processor. The goal is to enhance the processor so that it supports new instructions, can execute read and write operations with memory or other devices, and connect to peripherals like LEDs and seven-segment displays. This project is implemented in Verilog and tested using ModelSim and the DE1-SoC board.
 
----
-
 ## Features
 
 ### **Processor Enhancements:**
@@ -20,8 +18,6 @@ This project is part of a lab exercise to design and extend the capabilities of 
 ### **Testing and Simulation:**
 - Includes test programs to validate new instruction implementations.
 - ModelSim simulation setup files and a preconfigured DE1-SoC project environment.
-
----
 
 ## Project Files
 
@@ -41,8 +37,6 @@ This project is part of a lab exercise to design and extend the capabilities of 
 
 ### **Quartus Project Files:**
 - **part3.qpf, part3.qsf, part4.qpf, part4.qsf**: Quartus project configuration for DE1-SoC.
-
----
 
 ## Instructions
 
