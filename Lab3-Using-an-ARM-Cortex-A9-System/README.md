@@ -11,6 +11,6 @@ The main goal of this exercise is to get familiarized with ARM processor archite
 - DE1-SoC Board Configuration
 
 ## Additional Resources
-- [Introduction to the ARM Processor Using Intel FPGA Toolchain](./Lab3-Using-an-ARM-Cortex-A9-System/ARM_A9_intro_intelfpga.pdf)
-- [DE1-SoC Computer System with ARM Cortex A9](./Lab3-Using-an-ARM-Cortex-A9-System/DE1-SoC_Computer_ARM.pdf/)
-- [Lab 3 Handout](./Lab3-Using-an-ARM-Cortex-A9-System/Lab_3_Handout.pdf)
+- [Introduction to the ARM Processor Using Intel FPGA Toolchain](./ARM_A9_intro_intelfpga.pdf)
+- [DE1-SoC Computer System with ARM Cortex A9](./DE1-SoC_Computer_ARM.pdf/)
+- [Lab 3 Handout](./Lab_3_Handout.pdf)
