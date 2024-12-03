@@ -52,4 +52,5 @@ add r1, #1
 These instructions are encoded in the provided inst_mem.mif.
 
 ## **References**
-Refer to the Lab 1 Handout for detailed implementation guidelines and additional enhancements.
+- [DeSim Tutorial](./DESim_Tutorial.pdf)
+- [Lab 1 Handout](Lab1_Handout.pdf)
