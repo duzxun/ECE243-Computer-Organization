@@ -52,5 +52,5 @@ add r1, #1
 These instructions are encoded in the provided inst_mem.mif.
 
 ## **References**
-- [DeSim Tutorial](./DESim_Tutorial.pdf)
+- [DESim Tutorial](./DESim_Tutorial.pdf)
 - [Lab 1 Handout](Lab1_Handout.pdf)
