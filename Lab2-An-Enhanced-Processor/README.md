@@ -70,7 +70,7 @@ This project is part of a lab exercise to design and extend the capabilities of 
 - Branching Instructions: Test conditional and unconditional branching.
 - Seven-Segment Displays: Verify correct digit display and counting functionality.
 
-### **Resources**
+### **Additional Resources**
 - Simulation Tools: ModelSim and DESim for functional validation.
 - Development Board: DE1-SoC for physical hardware testing.
 - [DESim Tutorial](./DESim_Tutorial.pdf)
