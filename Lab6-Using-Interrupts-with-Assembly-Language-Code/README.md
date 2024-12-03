@@ -43,4 +43,4 @@ This is achieved by dynamically modifying the timer's load value in the ISR.
 - The TIME variable is displayed on the seven-segment displays using a shared HEX_code variable.
 
 ## Additional Resources
-- [Lab 6 Handout](./Lab6_Handout)
+- [Lab 6 Handout](./Lab6_Handout,pdf)
