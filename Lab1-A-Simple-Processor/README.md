@@ -1,4 +1,4 @@
-# Lab 1: A Simple Processor
+# Lab 1 - A Simple Processor
 
 This project implements a 16-bit simple processor using Verilog. Below is an overview of the repository structure, functionality, and instructions for usage.
 
