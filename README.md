@@ -1,7 +1,7 @@
 # ECE 243 - Computer Organization
 This repository contains the labs and materials from the ECE 243: Computer Organization course at University of Toronto (Winter 2021). 
 
-### Labs
+### Labs & Projects
 - [Lab 1 - A Simple Processor](./Lab1-A-Simple-Processor/)
 - [Lab 2 - An Enhanced Processor](./Lab2-An-Enhanced-Processor)
 - [Lab 3 - Using an ARM Cortex-A9 System](./Lab3-Using-an-ARM-Cortex-A9-System)
@@ -9,6 +9,7 @@ This repository contains the labs and materials from the ECE 243: Computer Organ
 - [Lab 5 - Using Input/Output Devices Including a Timer](./Lab5-Using-Input-Output-Devices-Including-a-Timer)
 - [Lab 6 - Using Interrupts with Assembly Language Code](Lab6-Using-Interrupts-with-Assembly-Language-Code)
 - [Lab 7 - Introduction to Graphics and Animations](Lab7-Introduction-to-Graphics-and-Animations)
+- 3D Maze Game
 
 ## Overview
 ### **Lab 1 - A Simple Processor**
@@ -31,3 +32,6 @@ Interrupts are explored to handle asynchronous events in a system. Assembly lang
 
 ### Lab 7 - Introduction to Graphics and Animations
 In this final lab, graphics and animations are introduced. Worked with graphical output, including implementing simple animations and visual displays, introducing a higher level of system design and user interaction.
+
+## Learn More
+- [3D Maze Game](https://d-uzun.wixsite.com/deniz-uzun/post/3d-maze-game)
