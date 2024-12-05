@@ -9,7 +9,7 @@ This repository contains the labs and materials from the ECE243 Computer Organiz
 - [Lab 5 - Using Input/Output Devices Including a Timer](./Lab5-Using-Input-Output-Devices-Including-a-Timer)
 - [Lab 6 - Using Interrupts with Assembly Language Code](Lab6-Using-Interrupts-with-Assembly-Language-Code)
 - [Lab 7 - Introduction to Graphics and Animations](Lab7-Introduction-to-Graphics-and-Animations)
-- [3D Maze Game](./3D-Maze_Game)
+- [3D Maze Game](https://github.com/duzxun/3D-Maze-Game)
 
 ## Labs & Projects
 ### Project
