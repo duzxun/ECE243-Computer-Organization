@@ -12,9 +12,6 @@ This repository contains the labs and materials from the ECE243 Computer Organiz
 - [3D Maze Game](https://github.com/duzxun/3D-Maze-Game)
 
 ## Labs & Projects
-### Project
-- Read more here: [3D Maze Game](https://d-uzun.wixsite.com/deniz-uzun/post/3d-maze-game)
-  
 ### **Lab 1 - A Simple Processor**
 In this lab, a simple processor is designed and implemented. The basic components of a CPU are explored, and a simple instruction set is designed. This lab provides foundational knowledge in processor design.
 
@@ -35,3 +32,6 @@ Interrupts are explored to handle asynchronous events in a system. Assembly lang
 
 ### Lab 7 - Introduction to Graphics and Animations
 In this final lab, graphics and animations are introduced. Worked with graphical output, including implementing simple animations and visual displays, introducing a higher level of system design and user interaction.
+
+### Project
+- Read more here: [3D Maze Game](https://d-uzun.wixsite.com/deniz-uzun/post/3d-maze-game)
