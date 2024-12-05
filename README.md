@@ -1,5 +1,5 @@
 # ECE 243 - Computer Organization
-This repository contains the labs and materials from the ECE 243: Computer Organization course at University of Toronto (Winter 2021). 
+This repository contains the labs and materials from the ECE 243 Computer Organization course at University of Toronto (Winter 2021). 
 
 ### Labs & Projects
 - [Lab 1 - A Simple Processor](./Lab1-A-Simple-Processor/)
